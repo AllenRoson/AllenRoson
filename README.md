@@ -17,4 +17,4 @@
 - QT
 - MFC
 - HTML/CSS
-- J
+- JavaScript
